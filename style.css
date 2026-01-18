@@ -20,6 +20,10 @@ body {
     width: 320px;
     text-align: center;
     box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
 }
 
 .avatar {
